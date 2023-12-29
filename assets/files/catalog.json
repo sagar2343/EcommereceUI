@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Table Fan",
+            "desc": "BAJAJ Pygmy Mini 11cm Sweep 3",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1671021139/Croma%20Assets/Small%20Appliances/Fans/Images/232310_isnjyj.png?tr=w-400"
+        },
+        {
+            "id": 2,
+            "name": "AC",
+            "desc": "Croma 4 in 1 Convertible 1.5 Ton 3 Star Inverter Split AC",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681476795/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/265348_vok3dq.png?tr=w-400"
+        },
+        {
+            "id": 3,
+            "name": "Refrigerator",
+            "desc": "SAMSUNG 183 Litres 3 Star Direct Cool Single Door Refrigerator",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682596328/Croma%20Assets/Large%20Appliances/Refrigerator/Images/269688_0_df1gnl.png?tr=w-400"
+        },
+        {
+            "id": 4,
+            "name": "Dry Iron",
+            "desc": "Longway Kwid 1100 W Dry Iron",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/iron/c/2/r/kwid-longway-original-imagrvgzdjznzyr6.jpeg?q=70"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+        },
+        {
+            "id": 6,
+            "name": "Dry Vaccum",
+            "desc": "Karcher WD 5 V-25/5/22 Wet & Dry Vacuum Cleaner",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/vacuum-cleaner/y/3/4/-original-imagn3dubfhzshhb.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "Aqua Filter",
+            "desc": "Aqua fresh Omega",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/water-purifier/w/m/e/omega-audi-ro-uv-uf-tds-aqua-fresh-original-imagq69bg3upnuhh.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
+        }
+    ]
+}
